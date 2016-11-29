@@ -8,9 +8,9 @@ note: all the content is in spanish
 
 - Classes
  - Computers Programming (not yet)
- - Object Oriented Programming
+ - Object Oriented Programming (not yet)
  - Data Structures (not yet)
  - Distributed Systems
  - Mobile Software Development
  - Network and Services Design
- - Technological Tools for Big Data and Data Science"# slides" 
+ - Technological Tools for Big Data and Data Science
